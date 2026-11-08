@@ -12,10 +12,3 @@ A Python-based web scraping tool designed to automatically extract and parse pro
   * Usefulness votes count (*Useful* / *Unuseful*)
   * Publication date and Verified Purchase timestamp
 * **Error Handling:** Robust handling for optional HTML fields and missing tags.
-
-## Tech stack
-
-* **Python**
-* **BeautifulSoup** — HTML parsing and DOM navigation
-* **Requests** — HTTP requests
-* **Jupyter Notebook** —  code execution and testing
