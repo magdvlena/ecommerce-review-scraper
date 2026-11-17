@@ -1,4 +1,4 @@
-# Ceneo review scraper & parser
+# Ceneo review scraper and parser
 
 A Python-based web scraping tool designed to automatically extract and parse product reviews from the Ceneo e-commerce platform.
 
